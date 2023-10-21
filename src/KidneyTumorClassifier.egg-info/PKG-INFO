@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: KidneyTumorClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/Vinayak-Nayak-GIT/Kidney_Tumor_Prediction
+Author: Vinayak-Nayak-GIT
+Author-email: vinayaknayak0010@gmail.com
+Project-URL: Bug Tracker, https://github.com/Vinayak-Nayak-GIT/Kidney_Tumor_Prediction/issues
+
+# Kidney_Tumor_Prediction
